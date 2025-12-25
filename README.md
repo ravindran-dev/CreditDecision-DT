@@ -1,16 +1,16 @@
-# Loan_Approval_Prediction-Decision_tree
+# CredictDecision - Decision Tree
 
 This project demonstrates a machine learning approach to predict loan approvals using a **Decision Tree Classifier**. The dataset contains information about applicants and whether their loan was approved or not. The goal is to create a model that can accurately predict the loan status based on input features.
 
----
 
-## 📂 Project Structure
+
+## Project Structure
 Loan Prediction - decision tree.ipynb: Jupyter Notebook containing the full implementation of data loading, preprocessing, model training, and evaluation using a Decision Tree.
 
 Dataset: Assumed to be included or imported within the notebook (e.g., train.csv, test.csv from Loan Prediction datasets like those on Kaggle).
 
----
-## 🧠 Technologies Used
+
+## Technologies Used
 
 - Python
 
@@ -24,8 +24,8 @@ Dataset: Assumed to be included or imported within the notebook (e.g., train.csv
 
 - Matplotlib / Seaborn (if used for visualization)
   
----
-## ✅ Features
+
+## Features
 - Data preprocessing (handling missing values, encoding categorical variables)
 
 - Exploratory Data Analysis (EDA)
@@ -36,8 +36,8 @@ Dataset: Assumed to be included or imported within the notebook (e.g., train.csv
 
 - Model evaluation with accuracy score, confusion matrix, etc.
   
----
-## 🚀 How to Run
+
+## How to Run
 - Clone this repository.
 
 - Make sure you have the necessary dependencies installed:
@@ -55,8 +55,7 @@ jupyter notebook "Loan Prediction - decision tree.ipynb"
 ```
 - Run all cells step-by-step.
 
----
-## 📊 Model Evaluation
+## Model Evaluation
 The performance of the Decision Tree model is evaluated using:
 
 - Accuracy Score - 76%
@@ -66,24 +65,22 @@ The performance of the Decision Tree model is evaluated using:
 
 - Train-test split validation
 
----
-## 📌 Future Improvements
+
+## Future Improvements
 - Use of other classifiers like Random Forest, XGBoost for comparison.
 
 - Hyperparameter tuning using GridSearchCV.
 
 - Deployment of the model using a web interface (e.g., Streamlit or Flask).
 
----
-## 📁 Dataset
+## Dataset
 - Ensure the loan prediction dataset (commonly available via platforms like Kaggle) is available in the working directory.
 
----
-## 📄 License
+
+## License
 - This project is licensed under the MIT License - see the LICENSE file for details.
 
----
 
-## 👨‍💻 Author
+## Author
 - RAVINDRAN S
 - Aspiring AI/ML Engineer
